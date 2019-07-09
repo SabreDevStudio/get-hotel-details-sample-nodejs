@@ -1,7 +1,7 @@
 # Getting Hotel Details
 ## Introducing this Code Sample
 
-We offer an API called [Get Hotel Details](https://beta.developer.sabre.com/docs/rest_apis/hotel/search/get_hotel_details_v1) to help you find information about a specific property that meets your travelers' needs. Through using the API, in one request, your application receives:
+We offer an API called [Get Hotel Details](https://beta.developer.sabre.com/docs/rest_apis/hotel/search/get_hotel_details) to help you find information about a specific property that meets your travelers' needs. Through using the API, in one request, your application receives:
 
   * Room rates and availability supplied from multiple aggregator sources offering millions of property options
   * Property information including where it is, how to contact, and display-ready image links
@@ -15,7 +15,7 @@ What does the sample app look like when it runs? Here is a screen shot:
 
 ## Read the Article
 
-There is [an article](https://blog.developer.sabre.com/) serving as a partner to this sample app source code. You’ll find explanations and additional resources written in it to add context whenever possible. 
+There is [an article](https://blog.developer.sabre.com/blog/2019/07/09/content-services-lodging-deep-dive-part-2-getting-details/) serving as a partner to this sample app source code. You’ll find explanations and additional resources written in it to add context whenever possible. 
 
 ## Setting-up the Sample App
 
